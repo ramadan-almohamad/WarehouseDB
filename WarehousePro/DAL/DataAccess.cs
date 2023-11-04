@@ -7,10 +7,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace RamGroupAdminPro.DAL
-{          //test
+{         
     internal class DataAccess
     {
-
+        //test2
         SqlConnection sqlconnection;
         //public DataAccess() => sqlconnection = new SqlConnection("Data Source=192.168.0.10; Database=CompanyDB; User ID=aroo; Password=12345;Integrated Security=False; Pooling=False;");
         public DataAccess() => sqlconnection = new SqlConnection("Data Source=.; Database=WarehouseDB;Integrated Security=True;Pooling=False");
