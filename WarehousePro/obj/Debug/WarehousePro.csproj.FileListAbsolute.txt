@@ -1,0 +1,10 @@
+C:\Users\ramad\source\repos\WarehousePro\WarehousePro\bin\Debug\WarehousePro.exe.config
+C:\Users\ramad\source\repos\WarehousePro\WarehousePro\bin\Debug\WarehousePro.exe
+C:\Users\ramad\source\repos\WarehousePro\WarehousePro\bin\Debug\WarehousePro.pdb
+C:\Users\ramad\source\repos\WarehousePro\WarehousePro\obj\Debug\WarehousePro.csproj.AssemblyReference.cache
+C:\Users\ramad\source\repos\WarehousePro\WarehousePro\obj\Debug\WarehousePro.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramad\source\repos\WarehousePro\WarehousePro\obj\Debug\WarehousePro.Properties.Resources.resources
+C:\Users\ramad\source\repos\WarehousePro\WarehousePro\obj\Debug\WarehousePro.csproj.GenerateResource.cache
+C:\Users\ramad\source\repos\WarehousePro\WarehousePro\obj\Debug\WarehousePro.csproj.CoreCompileInputs.cache
+C:\Users\ramad\source\repos\WarehousePro\WarehousePro\obj\Debug\WarehousePro.exe
+C:\Users\ramad\source\repos\WarehousePro\WarehousePro\obj\Debug\WarehousePro.pdb
