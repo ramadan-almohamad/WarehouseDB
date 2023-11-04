@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace RamGroupAdminPro.DAL
-{
+{          //test
     internal class DataAccess
     {
 
